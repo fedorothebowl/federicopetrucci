@@ -1,0 +1,278 @@
+[
+  {
+    "year": 2025,
+    "projects": [
+      {
+        "title": "Dagnese",
+        "url": "",
+        "description": "Sistema gestionale per la gestione interna di un'impresa operante nel trasporto, smaltimento e stoccaggio dei rifiuti.",
+        "role": "Referente dello sviluppo Front-end",
+        "tecnologies": "Gestione delle chiamate API REST con il framework javaScript Svelte",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": "in_progress"
+      },
+      {
+        "title": "Dropcity",
+        "url": "",
+        "description": "Dropcity è un hub a Milano che supporta giovani architetti e designer con spazi di lavoro, laboratori e mostre per promuovere ricerca e collaborazione.",
+        "role": "Referente dello sviluppo Front-end",
+        "tecnologies": "Sviluppo del tema October e gestione dei dati via API REST con SvelteKit",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": "in_progress"
+      },
+      {
+        "title": "Lastecca3",
+        "url": "",
+        "description": "ADA Stecca è una rete di associazioni culturali e sociali attive nella valorizzazione del territorio e del patrimonio locale.",
+        "role": "Referente dello sviluppo",
+        "tecnologies": "Sviluppo del tema WordPress e gestione dei Custom Post Type via API REST con Svelte",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": "in_progress"
+      },
+      {
+        "title": "Spazi Ibridi",
+        "url": "",
+        "description": "E' un hub di spazi e realtà culturali milanesi che promuove partecipazione, innovazione sociale e nuovi modi di vivere la città.",
+        "role": "Referente dello sviluppo Front-end",
+        "tecnologies": "Gestione dei Custom Post Type via API REST con Svelte. Integrazione del servizio mapbox per la visualizzazione delle mappe",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": "in_progress"
+      },
+      {
+        "title": "Stones of gaza",
+        "url": "https://stonesofgaza.com/",
+        "description": "Stones of Gaza è un memoriale vivente che trasforma i dati sulle vittime in colonne scultoree. Ogni volume rende visibile l'invisibile, dando forma al dolore collettivo.",
+        "role": "",
+        "tecnologies": "Vanilla javascript + integrazione libreria Three.js per la visualizzazione 3D delle colonne scultoree",
+        "team": {
+          "name": "",
+          "url": ""
+        },
+        "status": "artistic"
+      }
+
+    ]
+  },
+
+  {
+    "year": 2024,
+    "closed": true,
+    "projects": [
+      {
+        "title": "Che Fare",
+        "url": "https://che-fare.com/",
+        "description": "Che Fare è un festival di cultura e innovazione sociale che promuove progetti e idee per il cambiamento sociale.",
+        "role": "Referente dello sviluppo Front-end",
+        "tecnologies": "Sviluppo del tema October con l'ausilio della libreria javascript AlpineJS",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Spaghetti boost",
+        "url": "https://spaghettiboost.com/",
+        "description": "Spaghetti Boost è un incubatore di creativi che si attiva nella ricerca di partner di valore.",
+        "role": "Referente dello sviluppo Front-end",
+        "tecnologies": "Sviluppo del tema October con l'ausilio della libreria javascript AlpineJS. Integrazione dell'ecommerce sul CMS October",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+       {
+        "title": "Climate Walks",
+        "url": "https://climatewalks.com/",
+        "description": "Sito vestrina. Climatewalks coinvolge i cittadini nella raccolta di dati microclimatici per monitorare il calore urbano e supportare interventi mirati nei quartieri.",
+        "role": "Referente dello sviluppo",
+        "tecnologies": "Sviluppo del tema WordPress con l'ausilio della libreria javascript AlpineJS",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "UFO Decals",
+        "url": "https://decals.ufoplast.com/",
+        "description": "Decals è un servizio di stampa e vendita di adesivi personalizzati.",
+        "role": "Collaboratore dello sviluppo Front-end",
+        "tecnologies": "Gestione delle chiamate API REST con il framework javaScript Svelte. Integrazione dell'ecommerce sul CMS October",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      }
+
+    ]
+  },
+
+  {
+    "year": 2023,
+    "closed": true,
+    "projects": [
+      {
+        "title": "ADH Journal",
+        "url": "https://www.adh.journal.mantova.polimi.it/",
+        "description": "ADH Journal è un progetto editoriale che esplora il tema dell'architettura e del design.",
+        "role": "Referente dello sviluppo Front-end",
+        "tecnologies": "Sviluppo del tema October con l'ausilio della libreria javascript AlpineJS",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Milano Pride",
+        "url": "https://www.milanopride.it/it/",
+        "description": "Sito ufficiale del pride di Milano, un evento che celebra la comunità LGBTQ+ e promuove i diritti civili.",
+        "role": "Referente progetto",
+        "tecnologies": "Sviluppo del tema WordPress con l'ausilio della libreria javascript AlpineJS",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Parco Italia",
+        "url": "https://www.parcoitalia.it/",
+        "description": "Parco Italia promuove la tutela e la rigenerazione sostenibile delle foreste italiane, migliorando la connettività ecologica e la biodiversità su tutto il territorio.",
+        "role": "Referente progetto",
+        "tecnologies": "Sviluppo del tema WordPress con l'ausilio della libreria javascript AlpineJS",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      }
+    ]
+  },
+
+  {
+    "year": 2022,
+    "closed": true,
+    "projects": [
+      {
+        "title": "Hobo Studio",
+        "url": "https://hobo.studio/",
+        "description": "Hobo Studio è uno studio creativo specializzato in design e comunicazione visiva.",
+        "role": "Referente dello sviluppo",
+        "tecnologies": "Sviluppo del tema WordPress con l'ausilio della libreria javascript AlpineJS",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Arcigay Milano",
+        "url": "https://www.arcigaymilano.org/",
+        "description": "Sito ufficiale di Arcigay Milano, associazione per i diritti LGBTQ+ e l’inclusione sociale.",
+        "role": "Referente progetto",
+        "tecnologies": "Sviluppo del tema WordPress con l'ausilio della libreria javascript AlpineJS",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Bilancio Sociale CBM Italia",
+        "url": "https://bilanciosociale.cbmitalia.org/",
+        "description": "Piattaforma dedicata alla trasparenza e rendicontazione sociale di CBM Italia.",
+        "role": "Referente sviluppo Front-end",
+        "tecnologies": "Sviluppo del tema su October",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      }
+    ]
+  },
+
+  {
+    "year": 2021,
+    "closed": true,
+    "projects": [
+      {
+        "title": "Ordine Architetti Milano",
+        "url": "https://ordinearchitetti.mi.it/it",
+        "description": "Sito ufficiale dell'Ordine degli Architetti di Milano, punto di riferimento per i professionisti del settore.",
+        "role": "Collaboratore dello sviluppo Front-end",
+        "tecnologies": "Sviluppo del tema su October.",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Wood-Skin",
+        "url": "https://wood-skin.com/",
+        "description": "Wood-Skin è un progetto innovativo di superfici architettoniche flessibili e modulari in legno.",
+        "role": "Collaboratore dello sviluppo Front-end",
+        "tecnologies": "Sviluppo del tema su October",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Iabicus",
+        "url": "https://www.iabicus.com/",
+        "description": "Sito aziendale di Iabicus, agenzia digitale specializzata in sviluppo e consulenza web.",
+        "role": "Collaboratore Front-end",
+        "tecnologies": "Sviluppo del tema Wordpress",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "Imnativ",
+        "url": "https://imnativ.com/it/",
+        "description": "imNativ produce tessuti sostenibili, resistenti e versatili, frutto di continua innovazione e cura per l’ambiente.",
+        "role": "Collaboratore Front-end",
+        "tecnologies": "Sviluppo del tema WordPress",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      },
+      {
+        "title": "OPL245 Papers",
+        "url": "https://opl245papers.org/it/",
+        "description": "Progetto editoriale e culturale dedicato al petrolio e alle questioni ambientali legate al giacimento OPL245.",
+        "role": "Collaboratore Front-end",
+        "tecnologies": "Sviluppo del tema WordPress",
+        "team": {
+          "name": "Quivi",
+          "url": "https://quivi.it/"
+        },
+        "status": ""
+      }
+    ]
+  }
+
+]
