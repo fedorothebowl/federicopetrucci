@@ -12,5 +12,5 @@ body {
 }
 @font-face {
   font-family: "Montserrat";
-  src: url('./assets/fonts/Montserrat-SemiBold.ttf') format('truetype');
+  src: url('/fonts/Montserrat-SemiBold.ttf') format('truetype');
 }

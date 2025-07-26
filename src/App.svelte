@@ -8,7 +8,7 @@
   let show = false;
 
   onMount(async () => {
-    const res = await fetch('/src/assets/projects.json');
+    const res = await fetch('/projects.json');
     items = await res.json();
   });
 </script>
